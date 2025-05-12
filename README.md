@@ -1,4 +1,4 @@
-## Hi there! My name is Seth García!
+<!-- - ## Hi there! My name is Seth García!
 
 - 🔭 I’m currently working on Beyond, a mexican consultant agency and getting a degree in CS!
 - 🌱 I’m currently learning React Native!
